@@ -1,0 +1,11 @@
+#first_name, #patronymic, #surname {
+    text-transform:capitalize;
+}
+
+.user-box {
+    margin-bottom: 15px;
+}
+
+button {
+    margin-bottom: 20px;
+}
